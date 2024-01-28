@@ -1,0 +1,3 @@
+﻿  ParallelSolution.cpp
+C:\Users\Tuhabi\Documents\MNA\Computo en la nube\ParallelSolution\ParallelSolution\ParallelSolution.cpp(21,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ParallelSolution.vcxproj -> C:\Users\Tuhabi\Documents\MNA\Computo en la nube\ParallelSolution\x64\Debug\ParallelSolution.exe
